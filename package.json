@@ -1,0 +1,11 @@
+{
+  "name": "debug-friend",
+  "version": "0.0.1",
+  "description": "An wrapper for javascript [debug](https://www.npmjs.com/package/debug) utility. It will expose the root of all evil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
